@@ -1,5 +1,12 @@
 <body>
-
+<div class="bg-video-wrap">
+  <video src="pixta.mp4" loop muted autoplay>
+  </video>
+  <div class="overlay">
+  </div>
+  <h1>Individual App
+  </h1>
+</div>
 <div class="wrapper">
   <div class="header">
     <h1>Code Searcher</h1>
@@ -101,9 +108,9 @@
       </div>
     </div>
     <div class="content-code_box_bottom">
-      <%=image_tag"/コード表/A/A6_page-0001.jpg", alt:"Amaj"%>
-      
-    
+      <object data="/コード表/A/A6.pdf" type="application/pdf" width="100%" height="100%">
+        <param name="initZoom" value="fitToPage" />
+      </object>
     </div>
 
   </div>

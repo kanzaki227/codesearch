@@ -1,3 +1,7 @@
+.wrapper{
+  height: 100vh;
+}
+
 .header{
   height: 80px;
   width: 100%;
@@ -8,11 +12,7 @@
   font-size: 50px;
   font-family: 'M PLUS Rounded 1c', sans-serif;
   margin: 0 auto;
-}
 
-body::-webkit-scrollbar {
-  display:none;
-}
 
 
 .content{
@@ -25,7 +25,7 @@ body::-webkit-scrollbar {
 
 }
 
-
+}
 
 
 .content-code_box_top{
@@ -98,9 +98,6 @@ body::-webkit-scrollbar {
   box-shadow: 0 0 22px #353535;
 }
 
-
-
-
 .footer{
   color: white;
   height: 30px;
@@ -109,7 +106,14 @@ body::-webkit-scrollbar {
   text-align: center;
   line-height: 30px;
   font-family: 'M PLUS Rounded 1c', sans-serif;
-  
+}
+
+.wrapper{
+  position: relative;
+  .footer{
+    position: absolute;
+    bottom: 0;
+  }
 }
 
 h1{
@@ -128,6 +132,29 @@ p{
   box-sizing: border-box;
 }
 
+.bg-video-wrap {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  height: 100vh;
+  background: url(./sapmle.png) no-repeat center center/cover;
+  h1{
+    font-size: 90px;
+    position: absolute;
+    top: 500px;
+    right: 200px;
+    color: whitesmoke;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+  }
+}
+video {
+  min-width: 100%;
+  min-height: 100vh;
+}
+
+body::-webkit-scrollbar {
+  display:none;
+}
 
 
 
