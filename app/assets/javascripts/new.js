@@ -21,8 +21,8 @@ $(document).ready(function() {
         count = 1;
       } else{
         elements.text(defaultText);
-        $(this).css("background-color", "whitesmoke"); 
-        $(this).css("color", "#686869");
+        elements.css("background-color", "whitesmoke"); 
+        elements.css("color", "#686869");
         count = 0;
       }
     });
