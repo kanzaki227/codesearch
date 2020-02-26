@@ -15,14 +15,10 @@ $(document).ready(function() {
     var defaultText = elements.text();
     elements.click(function() {
       if ( count === 0 ){
-        elements.text('chose');
-        elements.css("background-color", "#686869"); 
-        elements.css("color", "white");
+        elements.text('chose').css("background-color", "#686869").css("color", "white");
         count = 1;
       } else{
-        elements.text(defaultText);
-        elements.css("background-color", "whitesmoke"); 
-        elements.css("color", "#686869");
+        elements.text(defaultText).css("background-color", "whitesmoke").css("color", "#686869");
         count = 0;
       }
     });
