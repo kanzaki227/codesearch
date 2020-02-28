@@ -9,6 +9,70 @@
 
 
 $(document).ready(function() {
+  $('.btnA').each(function() {
+    var elements = $(this);
+    var count = 0;
+    var defaultText = elements.text();
+    elements.click(function() {
+      if ( count === 0 ){
+        elements.text('chose!!').css("background-color", "#686869").css("color", "white").css("text-align", "center");
+        $(".codeA").css("display", "inline");
+        count = 1;
+      } else{
+        elements.text(defaultText).css("background-color", "whitesmoke").css("color", "#686869");
+        $(".codeA").css("display", "none");
+        count = 0;
+      }
+    });
+  });
+  $('.btnAsha').each(function() {
+    var elements = $(this);
+    var count = 0;
+    var defaultText = elements.text();
+    elements.click(function() {
+      if ( count === 0 ){
+        elements.text('chose!!').css("background-color", "#686869").css("color", "white").css("text-align", "center");
+        $(".codeAsha").css("display", "inline");
+        count = 1;
+      } else{
+        elements.text(defaultText).css("background-color", "whitesmoke").css("color", "#686869");
+        $(".codeAsha").css("display", "none");
+        count = 0;
+      }
+    });
+  });
+  $('.btnB').each(function() {
+    var elements = $(this);
+    var count = 0;
+    var defaultText = elements.text();
+    elements.click(function() {
+      if ( count === 0 ){
+        elements.text('chose!!').css("background-color", "#686869").css("color", "white").css("text-align", "center");
+        $(".codeB").css("display", "inline");
+        count = 1;
+      } else{
+        elements.text(defaultText).css("background-color", "whitesmoke").css("color", "#686869");
+        $(".codeB").css("display", "none");
+        count = 0;
+      }
+    });
+  });
+  $('.btnBsha').each(function() {
+    var elements = $(this);
+    var count = 0;
+    var defaultText = elements.text();
+    elements.click(function() {
+      if ( count === 0 ){
+        elements.text('chose!!').css("background-color", "#686869").css("color", "white").css("text-align", "center");
+        $(".codeBsha").css("display", "inline");
+        count = 1;
+      } else{
+        elements.text(defaultText).css("background-color", "whitesmoke").css("color", "#686869");
+        $(".codeBsha").css("display", "none");
+        count = 0;
+      }
+    });
+  });
   $('.btnC').each(function() {
     var elements = $(this);
     var count = 0;
@@ -16,11 +80,11 @@ $(document).ready(function() {
     elements.click(function() {
       if ( count === 0 ){
         elements.text('chose!!').css("background-color", "#686869").css("color", "white").css("text-align", "center");
-        $("img").css("display", "inline");
+        $(".codeC").css("display", "inline");
         count = 1;
       } else{
         elements.text(defaultText).css("background-color", "whitesmoke").css("color", "#686869");
-        $("img").css("display", "none");
+        $(".codeC").css("display", "none");
         count = 0;
       }
     });
@@ -32,11 +96,123 @@ $(document).ready(function() {
     elements.click(function() {
       if ( count === 0 ){
         elements.text('chose!!').css("background-color", "#686869").css("color", "white").css("text-align", "center");
-        $("img").css("display", "inline");
+        $(".codeCsha").css("display", "inline");
         count = 1;
       } else{
         elements.text(defaultText).css("background-color", "whitesmoke").css("color", "#686869");
-        $("img").css("display", "none");
+        $(".codeCsha").css("display", "none");
+        count = 0;
+      }
+    });
+  });
+  $('.btnD').each(function() {
+    var elements = $(this);
+    var count = 0;
+    var defaultText = elements.text();
+    elements.click(function() {
+      if ( count === 0 ){
+        elements.text('chose!!').css("background-color", "#686869").css("color", "white").css("text-align", "center");
+        $(".codeD").css("display", "inline");
+        count = 1;
+      } else{
+        elements.text(defaultText).css("background-color", "whitesmoke").css("color", "#686869");
+        $(".codeD").css("display", "none");
+        count = 0;
+      }
+    });
+  });
+  $('.btnDsha').each(function() {
+    var elements = $(this);
+    var count = 0;
+    var defaultText = elements.text();
+    elements.click(function() {
+      if ( count === 0 ){
+        elements.text('chose!!').css("background-color", "#686869").css("color", "white").css("text-align", "center");
+        $(".codeDsha").css("display", "inline");
+        count = 1;
+      } else{
+        elements.text(defaultText).css("background-color", "whitesmoke").css("color", "#686869");
+        $(".codeDsha").css("display", "none");
+        count = 0;
+      }
+    });
+  });
+  $('.btnE').each(function() {
+    var elements = $(this);
+    var count = 0;
+    var defaultText = elements.text();
+    elements.click(function() {
+      if ( count === 0 ){
+        elements.text('chose!!').css("background-color", "#686869").css("color", "white").css("text-align", "center");
+        $(".codeE").css("display", "inline");
+        count = 1;
+      } else{
+        elements.text(defaultText).css("background-color", "whitesmoke").css("color", "#686869");
+        $(".codeE").css("display", "none");
+        count = 0;
+      }
+    });
+  });
+  $('.btnF').each(function() {
+    var elements = $(this);
+    var count = 0;
+    var defaultText = elements.text();
+    elements.click(function() {
+      if ( count === 0 ){
+        elements.text('chose!!').css("background-color", "#686869").css("color", "white").css("text-align", "center");
+        $(".codeF").css("display", "inline");
+        count = 1;
+      } else{
+        elements.text(defaultText).css("background-color", "whitesmoke").css("color", "#686869");
+        $(".codeF").css("display", "none");
+        count = 0;
+      }
+    });
+  });
+  $('.btnFsha').each(function() {
+    var elements = $(this);
+    var count = 0;
+    var defaultText = elements.text();
+    elements.click(function() {
+      if ( count === 0 ){
+        elements.text('chose!!').css("background-color", "#686869").css("color", "white").css("text-align", "center");
+        $(".codeFsha").css("display", "inline");
+        count = 1;
+      } else{
+        elements.text(defaultText).css("background-color", "whitesmoke").css("color", "#686869");
+        $(".codeFsha").css("display", "none");
+        count = 0;
+      }
+    });
+  });
+  $('.btnG').each(function() {
+    var elements = $(this);
+    var count = 0;
+    var defaultText = elements.text();
+    elements.click(function() {
+      if ( count === 0 ){
+        elements.text('chose!!').css("background-color", "#686869").css("color", "white").css("text-align", "center");
+        $(".codeG").css("display", "inline");
+        count = 1;
+      } else{
+        elements.text(defaultText).css("background-color", "whitesmoke").css("color", "#686869");
+        $(".codeG").css("display", "none");
+        count = 0;
+      }
+    });
+  });
+  $('.btnGsha').each(function() {
+    var elements = $(this);
+    var count = 0;
+    var defaultText = elements.text();
+    elements.click(function() {
+      if ( count === 0 ){
+        elements.text('chose!!').css("background-color", "#686869").css("color", "white").css("text-align", "center");
+        $(".codeGsha").css("display", "inline");
+        count = 1;
+      } else{
+        elements.text(defaultText).css("background-color", "whitesmoke").css("color", "#686869");
+        $(".codeGsha").css("display", "none");
         count = 0;
       }
     });
