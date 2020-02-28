@@ -9,6 +9,9 @@
 
 
 $(document).ready(function() {
+
+  // ここから上のボタン
+
   $('.btnA').each(function() {
     var elements = $(this);
     var count = 0;
@@ -201,6 +204,25 @@ $(document).ready(function() {
       }
     });
   });
+  $('.btnGsha').each(function() {
+    var elements = $(this);
+    var count = 0;
+    var defaultText = elements.text();
+    elements.click(function() {
+      if ( count === 0 ){
+        elements.text('chose!!').css("background-color", "#686869").css("color", "white").css("text-align", "center");
+        $(".codeGsha").css("display", "inline");
+        count = 1;
+      } else{
+        elements.text(defaultText).css("background-color", "whitesmoke").css("color", "#686869");
+        $(".codeGsha").css("display", "none");
+        count = 0;
+      }
+    });
+  });
+  // ここまで上のボタン
+
+  // ここから下のボタン
   $('.btnGsha').each(function() {
     var elements = $(this);
     var count = 0;
