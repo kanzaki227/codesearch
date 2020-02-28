@@ -67,6 +67,11 @@
   display: block;
   padding: 10px;
   border: solid 2px #b6b6b6;
+  p{
+    text-align: center;
+    line-height: 200px;
+    height: 200px;
+  }
 }
 
 
@@ -152,7 +157,13 @@ img{
   display: none;
 }
 
+span{
+  color: red;
+  font-size: 23px;
+  font-weight: bold;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
 
+}
 
 
 @import url('https://fonts.googleapis.com/css?family=M+PLUS+Rounded+1c');

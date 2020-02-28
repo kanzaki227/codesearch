@@ -20,10 +20,12 @@ $(document).ready(function() {
       if ( count === 0 ){
         elements.text('chose!!').css("background-color", "#686869").css("color", "white").css("text-align", "center");
         $(".codeA").css("display", "inline");
+        $('#bottomP').css("display", "none");
         count = 1;
       } else{
         elements.text(defaultText).css("background-color", "whitesmoke").css("color", "#686869");
         $(".codeA").css("display", "none");
+        $('#bottomP').css("display", "block");
         count = 0;
       }
     });
@@ -36,6 +38,7 @@ $(document).ready(function() {
       if ( count === 0 ){
         elements.text('chose!!').css("background-color", "#686869").css("color", "white").css("text-align", "center");
         $(".codeAsha").css("display", "inline");
+        $('#bottomP').css("display", "none");
         count = 1;
       } else{
         elements.text(defaultText).css("background-color", "whitesmoke").css("color", "#686869");
@@ -52,6 +55,7 @@ $(document).ready(function() {
       if ( count === 0 ){
         elements.text('chose!!').css("background-color", "#686869").css("color", "white").css("text-align", "center");
         $(".codeB").css("display", "inline");
+        $('#bottomP').css("display", "none");
         count = 1;
       } else{
         elements.text(defaultText).css("background-color", "whitesmoke").css("color", "#686869");
@@ -68,6 +72,7 @@ $(document).ready(function() {
       if ( count === 0 ){
         elements.text('chose!!').css("background-color", "#686869").css("color", "white").css("text-align", "center");
         $(".codeBsha").css("display", "inline");
+        $('#bottomP').css("display", "none");
         count = 1;
       } else{
         elements.text(defaultText).css("background-color", "whitesmoke").css("color", "#686869");
@@ -84,10 +89,12 @@ $(document).ready(function() {
       if ( count === 0 ){
         elements.text('chose!!').css("background-color", "#686869").css("color", "white").css("text-align", "center");
         $(".codeC").css("display", "inline");
+        $('#bottomP').css("display", "none");
         count = 1;
       } else{
         elements.text(defaultText).css("background-color", "whitesmoke").css("color", "#686869");
         $(".codeC").css("display", "none");
+        $('#bottomP').css("display", "block");
         count = 0;
       }
     });
@@ -100,10 +107,12 @@ $(document).ready(function() {
       if ( count === 0 ){
         elements.text('chose!!').css("background-color", "#686869").css("color", "white").css("text-align", "center");
         $(".codeCsha").css("display", "inline");
+        $('#bottomP').css("display", "none");
         count = 1;
       } else{
         elements.text(defaultText).css("background-color", "whitesmoke").css("color", "#686869");
         $(".codeCsha").css("display", "none");
+        $('#bottomP').css("display", "block");
         count = 0;
       }
     });
@@ -116,10 +125,12 @@ $(document).ready(function() {
       if ( count === 0 ){
         elements.text('chose!!').css("background-color", "#686869").css("color", "white").css("text-align", "center");
         $(".codeD").css("display", "inline");
+        $('#bottomP').css("display", "none");
         count = 1;
       } else{
         elements.text(defaultText).css("background-color", "whitesmoke").css("color", "#686869");
         $(".codeD").css("display", "none");
+        $('#bottomP').css("display", "block");
         count = 0;
       }
     });
@@ -132,10 +143,12 @@ $(document).ready(function() {
       if ( count === 0 ){
         elements.text('chose!!').css("background-color", "#686869").css("color", "white").css("text-align", "center");
         $(".codeDsha").css("display", "inline");
+        $('#bottomP').css("display", "none");
         count = 1;
       } else{
         elements.text(defaultText).css("background-color", "whitesmoke").css("color", "#686869");
         $(".codeDsha").css("display", "none");
+        $('#bottomP').css("display", "block");
         count = 0;
       }
     });
@@ -148,10 +161,12 @@ $(document).ready(function() {
       if ( count === 0 ){
         elements.text('chose!!').css("background-color", "#686869").css("color", "white").css("text-align", "center");
         $(".codeE").css("display", "inline");
+        $('#bottomP').css("display", "none");
         count = 1;
       } else{
         elements.text(defaultText).css("background-color", "whitesmoke").css("color", "#686869");
         $(".codeE").css("display", "none");
+        $('#bottomP').css("display", "block");
         count = 0;
       }
     });
@@ -164,10 +179,12 @@ $(document).ready(function() {
       if ( count === 0 ){
         elements.text('chose!!').css("background-color", "#686869").css("color", "white").css("text-align", "center");
         $(".codeF").css("display", "inline");
+        $('#bottomP').css("display", "none");
         count = 1;
       } else{
         elements.text(defaultText).css("background-color", "whitesmoke").css("color", "#686869");
         $(".codeF").css("display", "none");
+        $('#bottomP').css("display", "block");
         count = 0;
       }
     });
@@ -180,10 +197,12 @@ $(document).ready(function() {
       if ( count === 0 ){
         elements.text('chose!!').css("background-color", "#686869").css("color", "white").css("text-align", "center");
         $(".codeFsha").css("display", "inline");
+        $('#bottomP').css("display", "none");
         count = 1;
       } else{
         elements.text(defaultText).css("background-color", "whitesmoke").css("color", "#686869");
         $(".codeFsha").css("display", "none");
+        $('#bottomP').css("display", "block");
         count = 0;
       }
     });
@@ -196,10 +215,12 @@ $(document).ready(function() {
       if ( count === 0 ){
         elements.text('chose!!').css("background-color", "#686869").css("color", "white").css("text-align", "center");
         $(".codeG").css("display", "inline");
+        $('#bottomP').css("display", "none");
         count = 1;
       } else{
         elements.text(defaultText).css("background-color", "whitesmoke").css("color", "#686869");
         $(".codeG").css("display", "none");
+        $('#bottomP').css("display", "block");
         count = 0;
       }
     });
@@ -212,10 +233,12 @@ $(document).ready(function() {
       if ( count === 0 ){
         elements.text('chose!!').css("background-color", "#686869").css("color", "white").css("text-align", "center");
         $(".codeGsha").css("display", "inline");
+        $('#bottomP').css("display", "none");
         count = 1;
       } else{
         elements.text(defaultText).css("background-color", "whitesmoke").css("color", "#686869");
         $(".codeGsha").css("display", "none");
+        $('#bottomP').css("display", "block");
         count = 0;
       }
     });
@@ -223,18 +246,18 @@ $(document).ready(function() {
   // ここまで上のボタン
 
   // ここから下のボタン
-  $('.btnGsha').each(function() {
+  $('.btnmaj').each(function() {
     var elements = $(this);
     var count = 0;
     var defaultText = elements.text();
     elements.click(function() {
       if ( count === 0 ){
         elements.text('chose!!').css("background-color", "#686869").css("color", "white").css("text-align", "center");
-        $(".codeGsha").css("display", "inline");
+        $('#c6').css("display", "none");
         count = 1;
       } else{
         elements.text(defaultText).css("background-color", "whitesmoke").css("color", "#686869");
-        $(".codeGsha").css("display", "none");
+        $('#c6').css("display", "block");
         count = 0;
       }
     });
