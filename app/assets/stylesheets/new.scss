@@ -74,6 +74,7 @@
   border-radius: 50%;
   transition: .6s;
   border: solid 5px #686869;
+  padding: 0px;
 }
 
 .btn-flat-border:hover {
@@ -148,6 +149,16 @@ video {
 body::-webkit-scrollbar {
   display:none;
 }
+
+button:focus {
+	outline:0;
+}
+
+
+img{
+  display: none;
+}
+
 
 
 
