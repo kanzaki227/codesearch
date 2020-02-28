@@ -32,7 +32,7 @@ $(document).ready(function() {
     elements.click(function() {
       if ( count === 0 ){
         elements.text('chose!!').css("background-color", "#686869").css("color", "white").css("text-align", "center");
-        $("img").css("display", "block");
+        $("img").css("display", "inline");
         count = 1;
       } else{
         elements.text(defaultText).css("background-color", "whitesmoke").css("color", "#686869");
