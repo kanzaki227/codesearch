@@ -270,20 +270,6 @@ $(document).ready(function() {
         count = 1;
       } else{
         elements.text(defaultText).css("background-color", "whitesmoke").css("color", "#686869");
-        $('.c---6').css("display", "inline");
-        $('.c---7').css("display", "inline");
-        $('.c7ad9').css("display", "inline");
-        $('.c7su4').css("display", "inline");
-        $('.cadd9').css("display", "inline");
-        $('.c-aug').css("display", "inline");
-        $('.c-dim').css("display", "inline");
-        $('.csus4').css("display", "inline");
-        $('.cm7-5').css("display", "inline");
-        $('.cMaj7').css("display", "inline");
-        $('.cm7d9').css("display", "inline");
-        $('.c-min').css("display", "inline");
-        $('.cmin6').css("display", "inline");
-        $('.cmin7').css("display", "inline");
         count = 0;
       }
     });
@@ -312,20 +298,6 @@ $(document).ready(function() {
         count = 1;
       } else{
         elements.text(defaultText).css("background-color", "whitesmoke").css("color", "#686869");
-        $('.c---6').css("display", "inline");
-        $('.c---7').css("display", "inline");
-        $('.c7ad9').css("display", "inline");
-        $('.c7su4').css("display", "inline");
-        $('.cadd9').css("display", "inline");
-        $('.c-aug').css("display", "inline");
-        $('.c-dim').css("display", "inline");
-        $('.csus4').css("display", "inline");
-        $('.cm7-5').css("display", "inline");
-        $('.cMaj7').css("display", "inline");
-        $('.cm7d9').css("display", "inline");
-        $('.c---M').css("display", "inline");
-        $('.cmin6').css("display", "inline");
-        $('.cmin7').css("display", "inline");
         count = 0;
       }
     });
@@ -354,20 +326,6 @@ $(document).ready(function() {
         count = 1;
       } else{
         elements.text(defaultText).css("background-color", "whitesmoke").css("color", "#686869");
-        $('.c---6').css("display", "inline");
-        $('.c---M').css("display", "inline");
-        $('.c7ad9').css("display", "inline");
-        $('.c7su4').css("display", "inline");
-        $('.cadd9').css("display", "inline");
-        $('.c-aug').css("display", "inline");
-        $('.c-dim').css("display", "inline");
-        $('.csus4').css("display", "inline");
-        $('.cm7-5').css("display", "inline");
-        $('.cMaj7').css("display", "inline");
-        $('.cm7d9').css("display", "inline");
-        $('.c-min').css("display", "inline");
-        $('.cmin6').css("display", "inline");
-        $('.cmin7').css("display", "inline");
         count = 0;
       }
     });
@@ -396,20 +354,6 @@ $(document).ready(function() {
         count = 1;
       } else{
         elements.text(defaultText).css("background-color", "whitesmoke").css("color", "#686869");
-        $('.c---6').css("display", "inline");
-        $('.c---7').css("display", "inline");
-        $('.c7ad9').css("display", "inline");
-        $('.c7su4').css("display", "inline");
-        $('.cadd9').css("display", "inline");
-        $('.c-aug').css("display", "inline");
-        $('.c-dim').css("display", "inline");
-        $('.csus4').css("display", "inline");
-        $('.cm7-5').css("display", "inline");
-        $('.c---M').css("display", "inline");
-        $('.cm7d9').css("display", "inline");
-        $('.c-min').css("display", "inline");
-        $('.cmin6').css("display", "inline");
-        $('.cmin7').css("display", "inline");
         count = 0;
       }
     });
@@ -438,20 +382,6 @@ $(document).ready(function() {
         count = 1;
       } else{
         elements.text(defaultText).css("background-color", "whitesmoke").css("color", "#686869");
-        $('.c---6').css("display", "inline");
-        $('.c---7').css("display", "inline");
-        $('.c7ad9').css("display", "inline");
-        $('.c7su4').css("display", "inline");
-        $('.cadd9').css("display", "inline");
-        $('.c-aug').css("display", "inline");
-        $('.c-dim').css("display", "inline");
-        $('.csus4').css("display", "inline");
-        $('.cm7-5').css("display", "inline");
-        $('.cMaj7').css("display", "inline");
-        $('.cm7d9').css("display", "inline");
-        $('.c-min').css("display", "inline");
-        $('.cmin6').css("display", "inline");
-        $('.c---M').css("display", "inline");
         count = 0;
       }
     });
@@ -480,20 +410,6 @@ $(document).ready(function() {
         count = 1;
       } else{
         elements.text(defaultText).css("background-color", "whitesmoke").css("color", "#686869");
-        $('.c---6').css("display", "inline");
-        $('.c---7').css("display", "inline");
-        $('.c7ad9').css("display", "inline");
-        $('.c7su4').css("display", "inline");
-        $('.cadd9').css("display", "inline");
-        $('.c-aug').css("display", "inline");
-        $('.c-dim').css("display", "inline");
-        $('.csus4').css("display", "inline");
-        $('.c---M').css("display", "inline");
-        $('.cMaj7').css("display", "inline");
-        $('.cm7d9').css("display", "inline");
-        $('.c-min').css("display", "inline");
-        $('.cmin6').css("display", "inline");
-        $('.cmin7').css("display", "inline");
         count = 0;
       }
     });
@@ -522,20 +438,6 @@ $(document).ready(function() {
         count = 1;
       } else{
         elements.text(defaultText).css("background-color", "whitesmoke").css("color", "#686869");
-        $('.c---6').css("display", "inline");
-        $('.c---7').css("display", "inline");
-        $('.c7ad9').css("display", "inline");
-        $('.c7su4').css("display", "inline");
-        $('.cadd9').css("display", "inline");
-        $('.c-aug').css("display", "inline");
-        $('.c-dim').css("display", "inline");
-        $('.c---M').css("display", "inline");
-        $('.cm7-5').css("display", "inline");
-        $('.cMaj7').css("display", "inline");
-        $('.cm7d9').css("display", "inline");
-        $('.c-min').css("display", "inline");
-        $('.cmin6').css("display", "inline");
-        $('.cmin7').css("display", "inline");
         count = 0;
       }
     });
@@ -564,20 +466,6 @@ $(document).ready(function() {
         count = 1;
       } else{
         elements.text(defaultText).css("background-color", "whitesmoke").css("color", "#686869");
-        $('.c---6').css("display", "inline");
-        $('.c---7').css("display", "inline");
-        $('.c7ad9').css("display", "inline");
-        $('.csus4').css("display", "inline");
-        $('.cadd9').css("display", "inline");
-        $('.c-aug').css("display", "inline");
-        $('.c-dim').css("display", "inline");
-        $('.c---M').css("display", "inline");
-        $('.cm7-5').css("display", "inline");
-        $('.cMaj7').css("display", "inline");
-        $('.cm7d9').css("display", "inline");
-        $('.c-min').css("display", "inline");
-        $('.cmin6').css("display", "inline");
-        $('.cmin7').css("display", "inline");
         count = 0;
       }
     });
@@ -606,20 +494,6 @@ $(document).ready(function() {
         count = 1;
       } else{
         elements.text(defaultText).css("background-color", "whitesmoke").css("color", "#686869");
-        $('.csus4').css("display", "inline");
-        $('.c---7').css("display", "inline");
-        $('.c7ad9').css("display", "inline");
-        $('.c7su4').css("display", "inline");
-        $('.cadd9').css("display", "inline");
-        $('.c-aug').css("display", "inline");
-        $('.c-dim').css("display", "inline");
-        $('.c---M').css("display", "inline");
-        $('.cm7-5').css("display", "inline");
-        $('.cMaj7').css("display", "inline");
-        $('.cm7d9').css("display", "inline");
-        $('.c-min').css("display", "inline");
-        $('.cmin6').css("display", "inline");
-        $('.cmin7').css("display", "inline");
         count = 0;
       }
     });
@@ -648,20 +522,6 @@ $(document).ready(function() {
         count = 1;
       } else{
         elements.text(defaultText).css("background-color", "whitesmoke").css("color", "#686869");
-        $('.c---6').css("display", "inline");
-        $('.c---7').css("display", "inline");
-        $('.c7ad9').css("display", "inline");
-        $('.c7su4').css("display", "inline");
-        $('.cadd9').css("display", "inline");
-        $('.c-aug').css("display", "inline");
-        $('.c-dim').css("display", "inline");
-        $('.csus4').css("display", "inline");
-        $('.cm7-5').css("display", "inline");
-        $('.cMaj7').css("display", "inline");
-        $('.cm7d9').css("display", "inline");
-        $('.c-min').css("display", "inline");
-        $('.c---M').css("display", "inline");
-        $('.cmin7').css("display", "inline");
         count = 0;
       }
     });
@@ -690,20 +550,6 @@ $(document).ready(function() {
         count = 1;
       } else{
         elements.text(defaultText).css("background-color", "whitesmoke").css("color", "#686869");
-        $('.c---6').css("display", "inline");
-        $('.c---7').css("display", "inline");
-        $('.c7ad9').css("display", "inline");
-        $('.c7su4').css("display", "inline");
-        $('.c---M').css("display", "inline");
-        $('.c-aug').css("display", "inline");
-        $('.c-dim').css("display", "inline");
-        $('.csus4').css("display", "inline");
-        $('.cm7-5').css("display", "inline");
-        $('.cMaj7').css("display", "inline");
-        $('.cm7d9').css("display", "inline");
-        $('.c-min').css("display", "inline");
-        $('.cmin6').css("display", "inline");
-        $('.cmin7').css("display", "inline");
         count = 0;
       }
     });
@@ -732,20 +578,6 @@ $(document).ready(function() {
         count = 1;
       } else{
         elements.text(defaultText).css("background-color", "whitesmoke").css("color", "#686869");
-        $('.c---6').css("display", "inline");
-        $('.c---7').css("display", "inline");
-        $('.c---M').css("display", "inline");
-        $('.c7su4').css("display", "inline");
-        $('.cadd9').css("display", "inline");
-        $('.c-aug').css("display", "inline");
-        $('.c-dim').css("display", "inline");
-        $('.csus4').css("display", "inline");
-        $('.cm7-5').css("display", "inline");
-        $('.cMaj7').css("display", "inline");
-        $('.cm7d9').css("display", "inline");
-        $('.c-min').css("display", "inline");
-        $('.cmin6').css("display", "inline");
-        $('.cmin7').css("display", "inline");
         count = 0;
       }
     });
@@ -774,20 +606,6 @@ $(document).ready(function() {
         count = 1;
       } else{
         elements.text(defaultText).css("background-color", "whitesmoke").css("color", "#686869");
-        $('.c---6').css("display", "inline");
-        $('.c---7').css("display", "inline");
-        $('.c7ad9').css("display", "inline");
-        $('.c7su4').css("display", "inline");
-        $('.cadd9').css("display", "inline");
-        $('.c-aug').css("display", "inline");
-        $('.c-dim').css("display", "inline");
-        $('.c---M').css("display", "inline");
-        $('.cm7-5').css("display", "inline");
-        $('.cMaj7').css("display", "inline");
-        $('.csus4').css("display", "inline");
-        $('.c-min').css("display", "inline");
-        $('.cmin6').css("display", "inline");
-        $('.cmin7').css("display", "inline");
         count = 0;
       }
     });
@@ -816,20 +634,6 @@ $(document).ready(function() {
         count = 1;
       } else{
         elements.text(defaultText).css("background-color", "whitesmoke").css("color", "#686869");
-        $('.c---6').css("display", "inline");
-        $('.c---7').css("display", "inline");
-        $('.c7ad9').css("display", "inline");
-        $('.c7su4').css("display", "inline");
-        $('.cadd9').css("display", "inline");
-        $('.c-aug').css("display", "inline");
-        $('.c---M').css("display", "inline");
-        $('.csus4').css("display", "inline");
-        $('.cm7-5').css("display", "inline");
-        $('.cMaj7').css("display", "inline");
-        $('.cm7d9').css("display", "inline");
-        $('.c-min').css("display", "inline");
-        $('.cmin6').css("display", "inline");
-        $('.cmin7').css("display", "inline");
         count = 0;
       }
     });
@@ -858,20 +662,6 @@ $(document).ready(function() {
         count = 1;
       } else{
         elements.text(defaultText).css("background-color", "whitesmoke").css("color", "#686869");
-        $('.c---6').css("display", "inline");
-        $('.c---7').css("display", "inline");
-        $('.c7ad9').css("display", "inline");
-        $('.c7su4').css("display", "inline");
-        $('.cadd9').css("display", "inline");
-        $('.c---M').css("display", "inline");
-        $('.c-dim').css("display", "inline");
-        $('.csus4').css("display", "inline");
-        $('.cm7-5').css("display", "inline");
-        $('.cMaj7').css("display", "inline");
-        $('.cm7d9').css("display", "inline");
-        $('.c-min').css("display", "inline");
-        $('.cmin6').css("display", "inline");
-        $('.cmin7').css("display", "inline");
         count = 0;
       }
     });
