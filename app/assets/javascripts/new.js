@@ -43,6 +43,7 @@ $(document).ready(function() {
       } else{
         elements.text(defaultText).css("background-color", "whitesmoke").css("color", "#686869");
         $(".codeAsha").css("display", "none");
+        $('#bottomP').css("display", "block");
         count = 0;
       }
     });
@@ -60,23 +61,7 @@ $(document).ready(function() {
       } else{
         elements.text(defaultText).css("background-color", "whitesmoke").css("color", "#686869");
         $(".codeB").css("display", "none");
-        count = 0;
-      }
-    });
-  });
-  $('.btnBsha').each(function() {
-    var elements = $(this);
-    var count = 0;
-    var defaultText = elements.text();
-    elements.click(function() {
-      if ( count === 0 ){
-        elements.text('chose!!').css("background-color", "#686869").css("color", "white").css("text-align", "center");
-        $(".codeBsha").css("display", "inline");
-        $('#bottomP').css("display", "none");
-        count = 1;
-      } else{
-        elements.text(defaultText).css("background-color", "whitesmoke").css("color", "#686869");
-        $(".codeBsha").css("display", "none");
+        $('#bottomP').css("display", "block");
         count = 0;
       }
     });
