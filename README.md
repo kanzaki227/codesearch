@@ -24,7 +24,7 @@
 <strong>ルート音を選ぶとそれに対応するコード一覧が表示され、組み合わせた響きに合致するコードが表示されます。<br>１８０通りのパターンがあります</strong>
 <br>
 
-# <p align="center">[ここからアプリにとべます！！](https://codeearcher-yk.herokuapp.com)</p>
+### <p align="center">[ここからアプリにとべます！！](https://codeearcher-yk.herokuapp.com)</p>
 
 <br>
 
