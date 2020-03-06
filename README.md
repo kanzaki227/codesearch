@@ -23,6 +23,9 @@
 <br>
 <strong>ルート音を選ぶとそれに対応するコード一覧が表示され、組み合わせた響きに合致するコードが表示されます。<br>１８０通りのパターンがあります</strong>
 <br>
+
+# <p align="center">[ここからアプリにとべます！！](https://codeearcher-yk.herokuapp.com)</p>
+
 <br>
 
 [![Image from Gyazo](https://i.gyazo.com/000a8a29c772c5bf31b1d982f7e070df.gif)](https://gyazo.com/000a8a29c772c5bf31b1d982f7e070df)
