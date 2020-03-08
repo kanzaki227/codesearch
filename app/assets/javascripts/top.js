@@ -1,7 +1,7 @@
 $(function(){
   var effect_pos = 5; // 画面下からどの位置でフェードさせるか(px)
   var effect_move = 50; // どのぐらい要素を動かすか(px)
-  var effect_time = 800; // エフェクトの時間(ms) 1秒なら1000
+  var effect_time = 80; // エフェクトの時間(ms) 1秒なら1000
 
   // フェードする前のcssを定義
   $('.wrapper').css({
@@ -21,7 +21,7 @@ $(function(){
         var this_pos = $(this).offset().top;
         if ( effect_pos > this_pos ) {
           $(this).css({opacity: 1, transform: 'translateY(0)'});
-          $('.bg-video-wrap').slideUp('slow');
+          $('.bg-video-wrap').slideUp(300);
         }
     });
   });
