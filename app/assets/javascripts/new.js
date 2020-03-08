@@ -9,7 +9,6 @@
 
 
 $(document).ready(function() {
-
   // ここから上のボタン
 
   $('.btnA').each(function() {
